@@ -1,1 +1,18 @@
-
+body {
+  background-color: light-blue;
+}
+h1︃︃{
+  color: yellow
+  text-align: center; 
+  font-family: arial;
+}
+#primoid ︃{
+  color: red;
+  font-size:18px;
+}
+.primaclasse ︃{
+  color: pink;
+  font-size:20px;
+  font-family:arial;
+  font-style:bold
+}
